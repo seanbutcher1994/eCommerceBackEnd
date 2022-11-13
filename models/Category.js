@@ -7,11 +7,15 @@ class Category extends Model {}
 Category.init(
   {
     // define columns
+    name: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    }
   },
   {
     sequelize,
-    timestamps: false,
-    freezeTableName: true,
+    timestamps: true,
+    freezeTableName: false,
     underscored: true,
     modelName: 'category',
   }
