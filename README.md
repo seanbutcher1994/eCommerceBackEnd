@@ -3,7 +3,7 @@
   ## Description
   This is the backend API of an ecommerce website with functioning get, post, put and delete routes for Tag, Product and Category Models.
 
-  [Link to Video of working app](#https://drive.google.com/file/d/18GHrn5OwXTgn-UE14SXxGvlNBE9EZfgJ/view)
+  [Link to Video of working app](https://drive.google.com/file/d/18GHrn5OwXTgn-UE14SXxGvlNBE9EZfgJ/view)
 
   # Table of Contents
   - [Installation Instructions](#installation-instructions)
